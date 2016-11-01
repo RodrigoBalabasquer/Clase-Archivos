@@ -1,0 +1,11 @@
+D:\Balabasquer\Clase Archivos\WGuardador\bin\Debug\WGuardador.exe.config
+D:\Balabasquer\Clase Archivos\WGuardador\bin\Debug\WGuardador.exe
+D:\Balabasquer\Clase Archivos\WGuardador\bin\Debug\WGuardador.pdb
+D:\Balabasquer\Clase Archivos\WGuardador\bin\Debug\Escritura en archivos.exe
+D:\Balabasquer\Clase Archivos\WGuardador\bin\Debug\Escritura en archivos.pdb
+D:\Balabasquer\Clase Archivos\WGuardador\obj\Debug\WGuardador.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Clase Archivos\WGuardador\obj\Debug\WGuardador.Form1.resources
+D:\Balabasquer\Clase Archivos\WGuardador\obj\Debug\WGuardador.Properties.Resources.resources
+D:\Balabasquer\Clase Archivos\WGuardador\obj\Debug\WGuardador.csproj.GenerateResource.Cache
+D:\Balabasquer\Clase Archivos\WGuardador\obj\Debug\WGuardador.exe
+D:\Balabasquer\Clase Archivos\WGuardador\obj\Debug\WGuardador.pdb

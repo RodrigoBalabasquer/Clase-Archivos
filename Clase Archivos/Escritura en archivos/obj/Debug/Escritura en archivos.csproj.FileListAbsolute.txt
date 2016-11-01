@@ -1,0 +1,6 @@
+D:\Balabasquer\Clase Archivos\Escritura en archivos\bin\Debug\Escritura en archivos.exe.config
+D:\Balabasquer\Clase Archivos\Escritura en archivos\obj\Debug\Escritura en archivos.csprojResolveAssemblyReference.cache
+D:\Balabasquer\Clase Archivos\Escritura en archivos\bin\Debug\Escritura en archivos.exe
+D:\Balabasquer\Clase Archivos\Escritura en archivos\bin\Debug\Escritura en archivos.pdb
+D:\Balabasquer\Clase Archivos\Escritura en archivos\obj\Debug\Escritura en archivos.exe
+D:\Balabasquer\Clase Archivos\Escritura en archivos\obj\Debug\Escritura en archivos.pdb
