@@ -1,0 +1,15 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Clase Archivos parte 2\Serializacion\bin\Debug\Serializacion.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Clase Archivos parte 2\Serializacion\bin\Debug\Serializacion.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Clase Archivos parte 2\Serializacion\obj\Debug\Serializacion.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Clase Archivos parte 2\Serializacion\obj\Debug\Serializacion.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Clase Archivos parte 2\Serializacion\obj\Debug\Serializacion.pdb
+D:\Balabasquer\Clase Archivos parte 2\Serializacion\obj\Debug\Serializacion.exe
+D:\Balabasquer\Clase Archivos parte 2\Serializacion\obj\Debug\Serializacion.pdb
+D:\Balabasquer\Clase Archivos parte 2\Serializacion\bin\Debug\Serializacion.exe
+D:\Balabasquer\Clase Archivos parte 2\Serializacion\bin\Debug\Serializacion.pdb
+D:\Balabasquer\Clase Archivos parte 2\Serializacion\obj\Debug\Serializacion.csprojResolveAssemblyReference.cache
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Clase Archivos parte 2\Serializacion\obj\Debug\Serializacion.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Clase Archivos parte 2\Serializacion\obj\Debug\Serializacion.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Clase Archivos parte 2\Serializacion\bin\Debug\Serializacion.exe
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Clase Archivos parte 2\Serializacion\bin\Debug\Serializacion.pdb
+D:\Rodrigo\UTN Programas 2ª cuatrimestre\Clase Archivos parte 2\Serializacion\obj\Debug\Serializacion.csprojResolveAssemblyReference.cache
